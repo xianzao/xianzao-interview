@@ -9,7 +9,7 @@
 <br />
 
 <div align="center">
-<img alt="xianzao icon" src="https://avatars.githubusercontent.com/u/112499828?s=400&u=7f644e450da146c6cf4ef17e829630228e14a2bd&v=4" width="100px" height="100px" style="border-radius:50%" >
+<img alt="xianzao icon" src="https://avatars.githubusercontent.com/u/112499828?s=400&u=7f644e450da146c6cf4ef17e829630228e14a2bd&v=4" width="100px" height="100px" style="border-radius:50% !important" >
 </div>
 
 <br />
@@ -18,8 +18,8 @@
 
 1. 出题时间：
 
-    1. 工作日;
-    2. 早上出题，晚上公布答案;
+    1. 工作日
+    2. 早上出题，晚上公布答案
 
 2. 内容范围--包括但不限于以下前端基础:
 
